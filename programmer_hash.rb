@@ -14,3 +14,4 @@ programmer_hash =
       }
     }
 puts programmer_hash
+puts programmer_hash[:dennis][]
