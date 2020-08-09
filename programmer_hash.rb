@@ -13,4 +13,4 @@ programmer_hash =
         :languages => ["C"]
       }
     }
-programmer_hash
+puts programmer_hash
